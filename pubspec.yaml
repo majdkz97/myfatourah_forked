@@ -16,7 +16,7 @@ dependencies:
   http: ^0.13.1
 
   flutter_webview_plugin:
-    git: https://github.com/snoopdoggy322/flutter_webview_plugin
+    git: https://github.com/nuc134r/flutter_webview_plugin.git
     
   back_button_interceptor: ^4.3.0
 
