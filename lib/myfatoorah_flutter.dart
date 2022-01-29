@@ -727,13 +727,7 @@ class _MyAppState extends State<MyApp> {
 //                    ),
                 withZoom: true,
                 withLocalStorage: true,
-                hidden: true,
-                initialChild: Container(
-                  color: Colors.white,
-                  child: const Center(
-                    child: Text('Waiting...'),
-                  ),
-                ),
+                
               ),
             ),
           ),
